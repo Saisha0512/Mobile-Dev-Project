@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/courgette</item>
+        <item>@font/jacques_francois</item>
+        <item>@font/lemon</item>
+        <item>@font/moul</item>
+        <item>@font/roboto_serif_bold</item>
+        <item>@font/roboto_serif_bold_italic</item>
+        <item>@font/rowdies</item>
+    </array>
+</resources>
